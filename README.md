@@ -33,3 +33,12 @@ Without doing any kind of feature engineering or overfitting you should be able 
 # Acknowledgements 📚 :
 
 This dataset is also available from the UCI machine learning repository, https://archive.ics.uci.edu/ml/datasets/wine+quality , I just shared it to kaggle for convenience. (I am mistaken and the public license type disallowed me from doing so, I will take this down at first request. I am not the owner of this dataset.
+
+
+# How the app looks like:
+
+## 🎯 Inference demo
+
+![wn1](https://github.com/darknightush/Wine_Quality_Prediction/blob/Master/pic2.PNG)
+![wn1](https://github.com/darknightush/Wine_Quality_Prediction/blob/Master/pic1.PNG)
+![wn1](https://github.com/darknightush/Wine_Quality_Prediction/blob/Master/pic3.PNG)
