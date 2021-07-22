@@ -39,6 +39,6 @@ This dataset is also available from the UCI machine learning repository, https:/
 
 ## 🎯 Inference demo
 
-![wn1](https://github.com/darknightush/Wine_Quality_Prediction/blob/Master/pic2.PNG)
-![wn1](https://github.com/darknightush/Wine_Quality_Prediction/blob/Master/pic1.PNG)
-![wn1](https://github.com/darknightush/Wine_Quality_Prediction/blob/Master/pic3.PNG)
+![wn1](https://github.com/darknightush/Wine_Quality_Prediction/blob/Master/static/pic2.PNG)
+![wn1](https://github.com/darknightush/Wine_Quality_Prediction/blob/Master/static/pic1.PNG)
+![wn1](https://github.com/darknightush/Wine_Quality_Prediction/blob/Master/static/pic3.PNG)
